@@ -1,4 +1,4 @@
-# Sushi Assets Info
+# AuraSwap Assets Info
 
 ![Check](https://github.com/trustwallet/assets/workflows/Check/badge.svg)
 
